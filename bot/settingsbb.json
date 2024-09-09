@@ -1,0 +1,70 @@
+{
+    "trade_risk": 5,
+    "granularity": "M1",
+    "trading_pairs": {
+        "GBP_CHF": {
+        "n_ma": 10,
+        "n_std": 2.0,
+        "maxspread": 0.0004,
+        "mingain": 0.0006,
+        "riskreward": 1.5
+        },
+        "EUR_CHF": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "GBP_JPY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.04,
+            "mingain": 0.06,
+            "riskreward": 1.5
+        },
+        "GBP_USD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "EUR_GBP": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        }
+        ,
+        "USD_CNY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "USD_CHF": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "USD_HKD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "USD_KRW": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        }
+    }
+}
